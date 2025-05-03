@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation"
+    start_year: 1998
+    end_year: 2005
+    description: "The original Kia Carnival (marketed as the Sedona in some markets) was Kia's first entry into the minivan segment. Featuring a conventional minivan design with sliding rear doors and three rows of seating, it prioritized spaciousness and practicality. Powertrain options typically included V6 engines, with the 2.5L and 3.5L units being the most common depending on the market. The interior offered good space for up to seven or eight passengers, though materials and build quality were basic by today's standards. While lacking the refinement of established competitors like the Honda Odyssey and Toyota Sienna, the first-generation Carnival/Sedona offered a compelling value proposition that helped establish Kia in the family vehicle segment."
+
+  - name: "Second Generation"
+    start_year: 2006
+    end_year: 2014
+    description: "The second-generation Carnival featured significantly improved styling, quality, and refinement. Built on a new platform, it offered better driving dynamics and safety performance. Powertrain options evolved to include more powerful and efficient engines, typically 2.7L V6 gasoline or 2.9L four-cylinder diesel units depending on the market. The interior saw major improvements in design, material quality, and features, offering amenities like power sliding doors, rear entertainment systems, and more comfortable seating. Safety features expanded to include more airbags and active safety technologies. This generation elevated the Carnival/Sedona from a budget option to a more competitive minivan that could be compared more directly with established market leaders."
+
+  - name: "Third Generation"
+    start_year: 2014
+    end_year: 2020
+    description: "The third-generation Carnival represented another significant step forward in design, technology, and refinement. Styling became more sophisticated under the direction of Peter Schreyer, featuring a more dynamic appearance despite its minivan proportions. Built on an updated platform with increased use of high-strength steel, it offered improved structural rigidity and safety. Powertrain options typically included a 3.3L V6 in North America and various gasoline and diesel engines in other markets, paired with six-speed or eight-speed automatic transmissions. The interior offered a more premium experience with available features including leather seating, dual sunroofs, power sliding doors, power liftgate, and advanced infotainment systems. Safety technology advanced with available features like blind spot detection, rear cross-traffic alert, and smart cruise control. This generation established the Carnival/Sedona as a serious competitor in the minivan segment, offering a compelling combination of features, styling, and value."
+
+  - name: "Fourth Generation"
+    start_year: 2020
+    end_year: null
+    description: "The current Carnival has been reimagined as a 'Grand Utility Vehicle,' adopting more SUV-like styling cues while maintaining minivan practicality. The exterior features a bold, upright front end with integrated LED headlights, a floating roof design, and distinctive C-pillar garnish. Built on Kia's N3 platform shared with the Sorento and other mid-size vehicles, it offers improved rigidity, handling, and noise isolation. Powertrain options vary by market but typically include a 3.5L V6, 2.2L diesel, or 3.5L LPG engines, paired with an eight-speed automatic transmission. The interior represents a major advancement with a sophisticated, SUV-inspired design featuring available dual 12.3-inch displays forming a panoramic digital cockpit, premium materials, and VIP second-row lounge seats with ottomans in some trim levels. Modern technology includes advanced driver assistance systems, wireless smartphone integration, and multiple USB ports throughout the cabin. This generation attempts to overcome minivan stigma by combining the segment's inherent practicality with more desirable SUV styling cues and luxury features, appealing to families who want space and versatility without sacrificing style or modern technology."
