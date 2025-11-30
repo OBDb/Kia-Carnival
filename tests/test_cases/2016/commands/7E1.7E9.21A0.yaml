@@ -46,6 +46,15 @@ test_cases:
     7E923C20D080101FFC1
     7E924C0FF00AAAAAAAA
 - expected_values:
+    KIA_ATF_T: 51
+    KIA_VSS_V3: 8
+  response: |-
+    7E9101E61A0FFFF0000
+    7E9210BC4080000098C
+    7E92203605B0B0F0A2C
+    7E923C10D080201FFC1
+    7E924C0FF00AAAAAAAA
+- expected_values:
     KIA_ATF_T: 61
     KIA_VSS_V3: 5
   response: |-
