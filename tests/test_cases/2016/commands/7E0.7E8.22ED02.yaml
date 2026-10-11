@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.22ED02
 test_cases:
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E82100001845FF7F00
@@ -11,7 +11,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E82100005960FF7F00
@@ -21,7 +21,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E82100005A5CFF0000
@@ -31,7 +31,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E82100005B5FFF7F00
@@ -41,7 +41,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E82100005C5EFFB600
@@ -51,7 +51,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E82100005D6CFF9C00
@@ -61,7 +61,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E821001A695DFF0100
@@ -71,7 +71,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E821001A8044FF0000
@@ -81,7 +81,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E821001B6F98FF0100
@@ -91,7 +91,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E821002D6870FF0100
@@ -101,7 +101,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E821002F8176FF0000
@@ -111,7 +111,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E82100406178FF0100
@@ -121,7 +121,7 @@ test_cases:
     7E825FFFFFFFFFFFFFF
     7E826FF555555555555
 - expected_values:
-    KIA_EOT_V2: -4
+    CARNIVAL_EOT_V2: -4
   response: |-
     7E8102A62ED02EFFDF8
     7E821004E5B76FF0100
