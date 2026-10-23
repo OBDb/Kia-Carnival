@@ -1,0 +1,9 @@
+command_id: 7E0.0165
+test_cases:
+- expected_values:
+    GEAR_SUP: 0
+    GPL_SUP: 0
+    N/D_SUP: 0
+    N/G_SUP: 0
+    PTO_SUP: 0
+  response: '7E803416500'

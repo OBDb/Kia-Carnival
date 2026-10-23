@@ -1,0 +1,5 @@
+command_id: 7E0.0150
+test_cases:
+- expected_values:
+    MAX_MAF: 0
+  response: '7E806415000000000'
